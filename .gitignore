@@ -1,0 +1,6 @@
+.DS_store
+*pycache*
+.venv
+.pytest_cache
+.ipynb_checkpoints
+*.nc
